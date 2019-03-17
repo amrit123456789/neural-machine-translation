@@ -9,7 +9,7 @@ I have built a Neural Machine Translation (NMT) model to translate human readabl
 
 - The model I built here could be used to translate from one language to another, such as translating from English to Hindi. However, language translation requires massive datasets and usually takes days of training on GPUs. To experiment with these models even without using massive datasets, I instead used a simpler "date translation" task.
 
-#Conclusions
+# Conclusions
 - Machine translation models can be used to map from one sequence to another. They are useful not just for translating human languages (like French->English) but also for tasks like date format translation.
 - An attention mechanism allows a network to focus on the most relevant parts of the input when producing a specific part of the output.
 - A network using an attention mechanism can translate from inputs of length  TxTx  to outputs of length  TyTy , where  TxTx  and  TyTy  can be different.
