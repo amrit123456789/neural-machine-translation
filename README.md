@@ -3,7 +3,7 @@ Neural Machine Translation with Attention
 # Intro
 # Neural Machine Translation
 
-Welcome to your first programming assignment for this week! 
+
 
 I have built a Neural Machine Translation (NMT) model to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25"). You will do this using an attention model, one of the most sophisticated sequence to sequence models. 
 
